@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(217, 214, 217);
+}
+
+h1{
+    font-size: 5rem;
+}
+
+h2{
+    font-size: 2.5rem;
+    border: 2px solid black;
+    display: inline;
+    padding: 1rem;
+}
+
+.margin-left{
+    margin-left: 1rem;
+}
+
+p{
+    font-size: 18px;
+}
+
+#home-photo{
+    position: fixed;
+    right: 0;
+    margin-right: 6rem;
+}
